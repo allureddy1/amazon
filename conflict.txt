@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello every one
 thank you for coming class
+=======
+good morning
+thank you
+>>>>>>> devlopment
