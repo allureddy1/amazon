@@ -1,4 +1,3 @@
-conflict oocurs
-hello,my name is allu ashok reddy
-good morning to one and all
-
+here the first line will be added
+hello every one
+welcome to hyderabad
